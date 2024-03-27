@@ -4,7 +4,7 @@ Experience the Weather Insights and Predictive Modeling Pipeline: From data coll
 
 * Data Collection:
 
-Weather Data: Collected historical and real-time data on temperature, humidity, wind speed, pressure, visibility, cloud cover, and weather descriptions from various cities.
+Weather Data: Collected historical and real-time data on temperature, humidity, wind speed, pressure, visibility, cloud cover, and weather descriptions of various cities from OpenWeatherMap.
 
 Variables: Gathered information from diverse states in Nigeria to capture regional climate patterns and trends, including temperature extremes, humidity levels, and seasonal variations.
 
