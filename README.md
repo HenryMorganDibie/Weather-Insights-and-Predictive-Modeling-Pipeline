@@ -21,6 +21,7 @@ Temporal Analysis: Examined diurnal temperature fluctuations and seasonal trends
 * Feature Engineering:
 
 Temporal Features: Extracted temporal features such as Month, DayOfMonth, and HourOfDay to capture seasonal and diurnal variations in weather patterns, enhancing the model's predictive capabilities.
+
 Geospatial Features: Incorporated latitude and longitude coordinates to account for geographical influences, enriching the model's understanding of regional climates and weather dynamics.
 
 * Predictive Modeling:
